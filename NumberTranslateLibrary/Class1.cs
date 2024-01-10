@@ -73,7 +73,7 @@ namespace NumberTranslateLibrary
         /// <param name="x">дробная часть числа</param>
         /// <param name="n">первоначальная с.c</param>
         /// <returns>число в 10-ой с.c</returns>
-        public static string notation10_Fract(string x, int P)//?
+        public static string notation10_Fract(string x, int P)
         {
             if (P == 10)
                 return x;
