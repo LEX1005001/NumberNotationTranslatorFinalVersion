@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberNotationTranslator", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTranslateLibrary", "NumberTranslateLibrary\NumberTranslateLibrary.csproj", "{2893087A-4CD6-40B1-9A98-F7F69CBFB48A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dig2intUnitTest", "dig2intUnitTest\dig2intUnitTest.csproj", "{3DF8F5E4-9B46-4ED4-8256-705E9BF2EF71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2893087A-4CD6-40B1-9A98-F7F69CBFB48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2893087A-4CD6-40B1-9A98-F7F69CBFB48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2893087A-4CD6-40B1-9A98-F7F69CBFB48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF8F5E4-9B46-4ED4-8256-705E9BF2EF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF8F5E4-9B46-4ED4-8256-705E9BF2EF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF8F5E4-9B46-4ED4-8256-705E9BF2EF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF8F5E4-9B46-4ED4-8256-705E9BF2EF71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
